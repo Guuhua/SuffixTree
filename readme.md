@@ -1,5 +1,6 @@
 ## build suffix tree with ukk alog
 
-- java
+### implementation
+- java  [code](https://github.com/Guuhua/SuffixTree/blob/main/suffixTree.java)
   
-- python
+- python [code](https://github.com/Guuhua/SuffixTree/blob/main/suffixTree.py)
